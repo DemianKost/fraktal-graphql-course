@@ -1,0 +1,16 @@
+{
+  "postses": [
+    {
+      "id": "0",
+      "title": "Hello to GraphQL",
+      "description": "I'm learning GraphQL today",
+      "authorId": "0"
+    },
+    {
+      "id": "1",
+      "title": "Post #1",
+      "description": "We already tested GraphQL",
+      "authorId": "1"
+    }
+  ]
+}
